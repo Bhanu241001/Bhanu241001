@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Bhanu Pratap Yadav
-- 👀 I’m interested in Cloud Security 
+- 👀 I’m interested in Backend Development
 - 🌱 I’m currently working on projects to build up my resume
-- 💞️ I’m looking to collaborate with Cyber-Security mentors so as to polish up my skills 
 - 📫 How to reach me ...Email: yadavpratapbhanu24@gmail.com
 
 <!---

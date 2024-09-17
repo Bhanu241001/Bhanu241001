@@ -4,11 +4,11 @@ I am a Full-Stack Web Developer passionate about building robust and scalable we
 
 **Skills:**
 
-1.PHP
-2.JavaScript
-3.HTML
-4.CSS
-5.ReactJs
+PHP
+JavaScript
+HTML
+CSS
+.ReactJs
 
 **Contact:**
 

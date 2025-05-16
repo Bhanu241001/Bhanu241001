@@ -12,4 +12,4 @@ ReactJs.
 
 **Contact:**
 
-**Email:**   : **bhanuyadav.connect@gmail.co**m
+**Email:**   : **bhanuyadav.connect@gmail.com**

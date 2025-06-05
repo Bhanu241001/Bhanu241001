@@ -1,15 +1,24 @@
-**About Me:**
+👋 Hi, I’m Bhanu Yadav, a passionate Front-End Developer based in Jaipur, India.
 
-I am a Full-Stack Web Developer passionate about building robust and scalable web applications. I am working on personal projects to enhance my skills and build a strong technical foundation.
+I specialize in building clean, responsive, and user-friendly web applications using modern technologies like React.js, JavaScript, HTML5, CSS3, and SCSS. Currently working at Flooid.in, I focus on crafting reusable components and integrating APIs to deliver seamless user experiences.
 
-**Skills:**
+🔧 My toolkit includes:
 
-PHP/
-JavaScript/
-HTML/
-CSS/
-ReactJs.
+Frameworks & Libraries: React.js, Vite, AJAX
 
-**Contact:**
+Tools: GitHub, Figma
 
-**Email:**   : **bhanuyadav.connect@gmail.com**
+Back-End Basics: PHP, API Integration
+
+Design: Responsive Web Design, UI/UX
+
+🛠️ Featured Projects:
+
+Jarvis AI Assistant – React + Gemini API integration for real-time NLP interaction
+
+Gemini Clone – Simulating AI interaction with React.js and Vite
+
+Weather App – Lightweight weather tracker using JavaScript and APIs
+
+🌱 Currently exploring full-stack development and enhancing my skills with real-world projects.
+📫 Reach me at: bhanuyadav.connect@gmail.com

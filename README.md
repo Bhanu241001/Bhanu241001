@@ -1,24 +1,39 @@
-👋 Hi, I’m Bhanu Yadav, a passionate Front-End Developer based in Jaipur, India.
+# 👋 Hi, I'm Bhanu Yadav
 
-I specialize in building clean, responsive, and user-friendly web applications using modern technologies like React.js, JavaScript, HTML5, CSS3, and SCSS. Currently working at Flooid.in, I focus on crafting reusable components and integrating APIs to deliver seamless user experiences.
+**Full-Stack Engineer** based in Jaipur, India — I build web applications people actually use, and I own them end to end.
 
-🔧 My toolkit includes:
+I work across the stack with **React.js, Node.js, TypeScript, and modern JavaScript**, from clean, responsive UIs to REST APIs. Lately I've been focused on the intersection of **AI and the frontend** — wiring model/LLM APIs (like Gemini) into production apps, building voice-enabled and multi-turn interfaces, and automating workflows with Python.
 
-Frameworks & Libraries: React.js, Vite, AJAX
+I don't just ship code — I ship experiences that are fast, reliable, and used by real people.
 
-Tools: GitHub, Figma
+---
 
-Back-End Basics: PHP, API Integration
+### 🔧 Toolkit
 
-Design: Responsive Web Design, UI/UX
+- **Frontend:** React.js, Next.js, Vite, JavaScript/TypeScript, HTML5, CSS3, SCSS
+- **Backend:** Node.js, Express, PHP, REST API integration, SQL
+- **AI / Emerging:** LLM & model-API integration (Gemini), voice interfaces, Python automation
+- **Platforms:** Shopify (custom themes), WordPress
+- **Tools:** Git & GitHub, Figma
 
-🛠️ Featured Projects:
+---
 
-Jarvis AI Assistant – React + Gemini API integration for real-time NLP interaction
+### 💼 Currently
 
-Gemini Clone – Simulating AI interaction with React.js and Vite
+Frontend Engineer & UX Specialist @ **House of Sthri** — turning user research into product decisions and shipping the interfaces that follow. Previously full-stack @ HELPSTiR, frontend @ Flooid.in, and freelance/client work before that.
 
-Weather App – Lightweight weather tracker using JavaScript and APIs
+---
 
-🌱 Currently exploring full-stack development and enhancing my skills with real-world projects.
-📫 Reach me at: bhanuyadav.connect@gmail.com
+### 🛠️ Featured Projects
+
+- **Jarvis AI Assistant** — React + Gemini API assistant with real-time, multi-turn NLP interaction and a voice-enabled interface.
+- **Gemini Clone** — AI chat interface built with React.js and Vite, simulating multi-turn model interaction.
+- **Weather App** — Lightweight weather tracker in vanilla JavaScript, pulling live data from public APIs.
+
+---
+
+### 🌱 Now
+
+Going deeper on full-stack and AI-integrated systems — building reliable, production-grade things with real users and real constraints.
+
+📫 **Reach me:** bhanuyadav.connect@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/bhanu-pratap-yadav-7670b3275)

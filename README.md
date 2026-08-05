@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bhanu Yadav
+# 👋 Hi, I'm Bhanu Pratap Yadav
 
 **Full-Stack Engineer** based in Jaipur, India — I build web applications people actually use, and I own them end to end.
 
